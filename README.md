@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siddharth Hirani
-- 👀 I’m interested in Devlopong full fledge Websites
-- 🌱 I’m currently learning Backend dev
+- 👀 I’m interested in Devloping full fledge Websites
+- 🌱 I’m currently learning frontend and Backend dev
 - 💞️ I’m looking to collaborate on Anything innovative
 - 📫 How to reach me Through my E-mail - siddharth19304@gmail.com
 - 😄 Pronouns: He/male.
